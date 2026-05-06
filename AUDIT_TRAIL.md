@@ -24,3 +24,8 @@
 - **Milestone:** Uploaded `best_model.pkl` to the `week-03-04-powerbi/machine_learning` directory.
 - **Notes:** Built and evaluated machine learning models using the Titanic dataset. Loaded data from AWS S3 in Colab, performed exploratory data analysis (EDA), conducted correlation analysis to select top 5 features, trained Logistic Regression and XGBoost models, evaluated performance using confusion matrix and F1 score, selected the best model, saved it as `best_model.pkl`, and pushed outputs to GitHub and AWS S3.
 
+
+## Week 5-6: Advanced Power BI & BigQuery Prep
+* **Date:** 2026-05-06
+* **Milestone:** Uploaded `spain_sales_clean.csv` and `MDS 7-PowerBI .pdf` to the `week-05-06-bigquery/PowerBI` directory.
+* **Notes:** Transformed raw Spanish Beverage Excel data into CSV using Pandas, adding a 'Total Revenue' feature. Established a live web-connector pipeline between GitHub and Power BI. Demonstrated live data refresh by injecting extreme data points via Python and updating the repository. Exported final visualizations to PDF and backed up to AWS S3.
