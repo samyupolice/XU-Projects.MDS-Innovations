@@ -29,3 +29,27 @@
 * **Date:** 2026-05-06
 * **Milestone:** Uploaded `spain_sales_clean.csv` and `MDS 7-PowerBI .pdf` to the `week-05-06-bigquery/PowerBI` directory.
 * **Notes:** Transformed raw Spanish Beverage Excel data into CSV using Pandas, adding a 'Total Revenue' feature. Established a live web-connector pipeline between GitHub and Power BI. Demonstrated live data refresh by injecting extreme data points via Python and updating the repository. Exported final visualizations to PDF and backed up to AWS S3.
+
+
+## Week 5-6: Deep Learning Classification
+
+- Date: 2026-06-02 20:12:58
+
+- Transitioned from Classical Machine Learning to Deep Learning.
+
+- Model A:
+  3 Layer Neural Network
+  Accuracy = 0.7933
+
+- Model B:
+  5 Layer Neural Network
+  Accuracy = 0.7933
+
+- Generated README.md automatically.
+
+- Saved model_3_layers.h5 and model_5_layers.h5.
+
+- Deployed artifacts to AWS S3.
+
+- Deployed artifacts to GitHub.
+
