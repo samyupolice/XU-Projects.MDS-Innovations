@@ -58,3 +58,5 @@
 * **Date:** 2026-06-02
 * **Milestone:** Uploaded `Germany-Power-Bi-Dataset` and `Taskmds7_week5.pdf` to the `week-05-06-bigquery/PowerBI` directory.
 * **Notes:** Transformed raw Spanish Beverage Excel data into CSV using Pandas, adding a 'Total Revenue' feature. Established a live web-connector pipeline between GitHub and Power BI. Demonstrated live data refresh by injecting extreme data points via Python and updating the repository. Exported final visualizations to PDF and backed up to AWS S3.
+
+* **2026-06-03 - Computer Vision:** Trained CIFAR-10 CNN (`cifar_custom_cnn.h5`) and deployed to S3/GitHub.
