@@ -62,4 +62,3 @@
 * **2026-06-03 - Computer Vision:** Trained CIFAR-10 CNN (cifar_custom_cnn.h5) and deployed to S3/GitHub.
 
 
-* **2026-06-03 - Computer Vision:** Trained CIFAR-10 CNN (cifar_custom_cnn.h5) and deployed to S3/GitHub.
